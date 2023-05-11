@@ -1,6 +1,5 @@
 'use strict'
 //54. Spiral Matrix
-
 var spiralOrder = function(matrix) {
     if (matrix[0].length === 1) {
         let result = []
